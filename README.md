@@ -6,7 +6,7 @@ This project involves an in-depth analysis of inventory and sales data for Mint 
 
 ### Database File
 - The project utilizes the database file: `mintclassicsDB.sql`
-It is provided by Coursera.
+It is provided by Coursera as a [guided project](https://www.coursera.org/learn/showcase-analyze-data-model-car-database-mysql-workbench/home/welcome).
 
 ### Techniques Used
 
